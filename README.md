@@ -66,9 +66,9 @@
 
 ## 🤝 Contact
 
-- 📧 Email: your.email@example.com  
-- 🧠 Portfolio: [Notion / GitHub Link]  
-- 💬 Blog: [Optional]
+- 📧 Email: biz.as200712@gmail.com
+- 🧠 Portfolio: [Notion / GitHub Link – Will be updated soon] 
+- 💬 Blog: [Will be updated soon]
 
 ---
 
